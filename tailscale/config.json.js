@@ -1,6 +1,6 @@
 {
-"version":"2.0.7",
-"md5":"fb1833a822bf67a53ede6d9ccfc7d401",
+"version":"2.1.0",
+"md5":"c3b2a3cca00a4f9ce5c9d7de6c1e6d7a",
 "home_url":"Module_tailscale.asp",
 "title":"Tailscale",
 "description":"基于wiregurad协议的零配置内网穿透安全组网工具！",
@@ -8,5 +8,5 @@
 "author":"sadog",
 "link":"",
 "changelog":"",
-"build_date":"2026-03-03_10:38:24"
+"build_date":"2026-11-06_12:56:39"
 }

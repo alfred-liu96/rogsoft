@@ -46,4 +46,4 @@ softcenter/softcenter/res/icon-*.png
 # Platform marker files generated while rebuilding modules.
 */*/.valid
 softcenter/__pycache__
-
+.idea/

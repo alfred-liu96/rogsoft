@@ -1,5 +1,10 @@
-Koolshare Asuswrt-Merlin ZeroTier Changelog for HND/AXHND platform
+Koolshare Asuswrt-Merlin Tailscale Changelog for HND/AXHND platform
 ===========================================
+2.1.0
+   - update	更新tailscale二进制到最新v1.104.5版本（Go 1.27.3）！
+   - update	32/64位二进制均使用UPX 5.3.0压缩，体积约6.7MB
+   - note	继续沿用2.0.7的ts_omit特性列表，保证插件功能与行为一致
+
 2.0.0 - 2.0.1
    - update	binary update to 1.78.1
 
